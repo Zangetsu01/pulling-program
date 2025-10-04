@@ -11,7 +11,7 @@ a = p * (1 + r/100) ** t
 ci = a - p
 
 
-print("\nResults:")
+print("\nResults ")
 print("Simple Interest =", si)
 print("Compound Interest =", ci)
 print("Total Amount with Compound Interest =", a)
